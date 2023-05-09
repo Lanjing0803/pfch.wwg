@@ -1,2 +1,2 @@
-# pfch.wwg.github.io
+# pfch.wwg
 pfch_final_project
